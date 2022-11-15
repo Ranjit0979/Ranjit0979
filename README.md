@@ -1,5 +1,5 @@
 <h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/ranjit-lagad-420904231/" target="_blank"> Ranjit Lagad </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=F97457&lines=Java+Backend+Developer+%3A)" /> </h3>
 
 ## 🚀 About Me
 
