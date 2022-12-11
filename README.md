@@ -1,68 +1,65 @@
-<h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/ranjit-lagad-420904231/" target="_blank"> Ranjit Lagad </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=F97457&lines=Java+Backend+Developer+%3A)" /> </h3>
-
-## 🚀 About Me
-
-A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
-   
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjit0979&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ranjit0979" alt="Ranjit" /></a></p> 
-   
-   
-- 👩‍💻 I'm currently working on improving my skills
-
-- 🧠 I'm currently learning MySQL
-
-- 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot/AWS
-
-- Checkout my [Portfolio](https://ranjit0979.github.io/)
-
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm <i>Ranjit Lagad</i></h1>
+<h3 align="center">A self-motivated and ambitious Java Backend Developer , Passion-driven learner with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining Java based web applications. Looking forward to joining a progressive and challenging work environment.</h3>
+<br/>
+<br/>
+<a href="https://Ranjit0979.github.io/">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ArjunSinghBhakunirohi.vercel.app" />
+</a>
+<a title="ranjitlagad0979@gmail.com" href="mailto:ranjitlagad0979@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ranjitlagad0979@gmail.com" />
+</a>
 <a href="https://www.linkedin.com/in/ranjit-lagad-420904231/">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ranjit-lagad-420904231/" />
+</a>
+<br/>
+<br/>
+<a href="#"><img align="right" width="350px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" alt="gif" /></a>
+
+<br/>
+
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=Ranjit0979&label=Profile%20views&color=0e75b6&style=flat" alt="ranjit-lagad" /> </p>
+
+- 🔭 I’m currently Looking to contiribute to new projects 
+- 🌱 I’m currently learning **Backend**
+- 💻 I'm passionate about making creative websites.
+- 💬 Ask me about **Web | Literature**
+- 💬  My portfolio is [(https://ranjit0979.github.io/)]
+- 📫 How to reach me **ranjitlagad0979@gmail.com**
 
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Ranjit0979&left_color=blue&right_color=green) -->
-<!--   ![Visitor Count](https://profile-counter.glitch.me/Ranjit0979/count.svg) -->
 
-<h2 align="left"><i>Tech Stack :</i></h2>
-<div align="left">
-<!-- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> -->
-<img alt="Java" src="https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Spring" src="https://img.shields.io/badge/spring-%f6b9ad.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-716a47.svg?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</div>
+<br/>
+<br/>
 
-<!-- <h3 align="left">Hosting :</h3> -->
-<h2 align="left"><i>Hosting :</i></h2>
-<div align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</div><br/>
+<h2><i>Tech Stack</i></h2>
 
-
-<!-- <h3 align="left">Connect with me:</h3> -->
-<h2 align="left"><i>Connect with me:</i></h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/ranjit-lagad-420904231/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ranjit.lagad.elect.2016@vpkbiet.org"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
+<p>
+    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a>
+    <a href="#"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="java" width="120" height="35" /></a>
+    <a href="#"><img src="https://baffle.io/wp-content/uploads/2021/04/aws2.png" alt="aws" width="120" height="35"  /></a>
+    <a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png" alt="spring" width="120" height="35"  /></a>
+     <a href="#"><img src="https://www.devteam.space/wp-content/uploads/2018/05/hibernate.jpg" alt="hibernate" width="120" height="35"  /></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+   
+</p>
 <br>
 
-<h2 align="center">📊 My Github Stats</h2>
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjit0979&theme=indian-flag" alt="Ranjit Lagad" height="250px" width="45%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ranjit0979&theme=flag-india&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
-</div>
-  
-</br>  
+<a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake"  align="center"  /></a>
+<br/><br/>
+<p display="flex" align="center">
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit0979&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Ranjit Lagad" height="275px" width="30%"/>
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Ranjit0979&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
-</div>
+  
+  
+  # 📊 GitHub Stats:
+<p align="left">
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ranjit0979&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjit0979&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit0979&theme=default" align="center" />
+</p>
