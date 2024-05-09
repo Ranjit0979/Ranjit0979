@@ -23,7 +23,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=Ranjit0979&label=Profile%20views&color=0e75b6&style=flat" alt="ranjit-lagad" /> </p>
 
 - 🔭 I’m currently Looking to contiribute to new projects 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m an experienced **Java Backend Developer**
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about **Web | Literature**
 - 💬  My portfolio is [(https://ranjit0979.github.io/)]
