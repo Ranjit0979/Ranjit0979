@@ -1,5 +1,8 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm <i>Ranjit Lagad</i></h1>
-<h3 align="center">A self-motivated and ambitious Java Backend Developer , Passion-driven learner with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining Java based web applications. Looking forward to joining a progressive and challenging work environment.</h3>
+<h3 align="center">Driven Java developer with one year of hands-on experience in building robust web applications using Spring and Spring Boot frameworks.
+                         Proficient in MySQL for database management and adept in front-end technologies including HTML, CSS, and JavaScript.
+                          Passionate about crafting clean, scalable code and continuously enhancing technical skills to deliver high-quality solutions.
+                           Eager to leverage expertise in a dynamic team environment to tackle challenging projects and drive innovation.</h3>
 <br/>
 <br/>
 <a href="https://Ranjit0979.github.io/">
